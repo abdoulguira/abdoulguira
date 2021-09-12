@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @abdoulguira
+- 👀 I’m interested in Computer Programming
+- 🌱 I’m currently taking an advance Technical Interview Prep at CodePath That will mainly focus on Dynamic Programming and Greedy algorithms
+- 💞️ I’m looking to collaborate on any Software Engineering Team
+- 📫 I am available 24/7 and can be reach at guimani@yahoo.fr and +1 929-423-0853
